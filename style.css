@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+
+html,body{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+/* .banniere{
+    background-color: blue;
+} */
+.container-fluid{
+    background-color: rgba(rgb(98, 0, 255), rgb(34, 0, 128), blue, .5)
+}
+
+
+.section-two a {
+    color: #7451EB;
+}
